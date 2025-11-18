@@ -5,7 +5,9 @@
 ### 官方网站：
 
 大陆官网：www.mamenruikekeji.cn
+
 国际官网：www.mammonruike.com
+
 中文域名：玛门睿科科技.中国
 
 ## 官方商城
@@ -22,8 +24,11 @@ python3.8.10以上
 ## 使用方法：
 
 1、登录或注册阿里云账号（https://www.aliyun.com/）
+
 2、注册服务：https://market.aliyun.com/detail/cmapi00047994?spm=5176.29867242_210807074.0.0.44e83e7eUr5Fgx
+
 3、打开买家控制台找到刚注册的服务复制AppCode并替换脚本中的秘钥。
+
 4、双击脚本用Python打开运行
 
 ## 如需打包：
