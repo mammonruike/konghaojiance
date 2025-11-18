@@ -24,6 +24,11 @@
 
 python3.8.10以上
 
+## 依赖：
+```shell
+pip install urllib3
+```
+
 ## 使用方法：
 
 1、登录或注册阿里云账号（https://www.aliyun.com/）
