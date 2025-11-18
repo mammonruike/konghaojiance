@@ -18,7 +18,7 @@
 
 支付宝小程序：
 
-![zfb](https://shang.mamenruike.com/public/download/forminput/qrcode/weixin/2025/11/07/7.png)
+![zfb](https://shang.mamenruike.com/public/download/forminput/qrcode/weixin/2025/11/07/7.jpg)
 
 #### 运行环境：
 
