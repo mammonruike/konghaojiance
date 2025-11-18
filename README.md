@@ -14,11 +14,11 @@
 
 微信小程序：
 
-[![weixin](https://vip.123pan.cn/1850701873/xcx/mmexport1762769402505.jpg)
+![weixin](https://shang.mamenruike.com/public/download/forminput/qrcode/weixin/2025/11/07/6.png)
 
 支付宝小程序：
 
-[![zfb](https://vip.123pan.cn/1850701873/xcx/1762769714287.jpg)
+![zfb](https://shang.mamenruike.com/public/download/forminput/qrcode/weixin/2025/11/07/7.png)
 
 #### 运行环境：
 
@@ -51,4 +51,4 @@ auto-py-to-exe
 ```
 # 协议
 
-[MIT 开源协议。](./LICENSE)
+[MIT 开源协议](./LICENSE)
